@@ -1,4 +1,4 @@
-﻿"Changes: Sprites":
+﻿﻿"Changes: Sprites":
 - changed-files:
   - any-glob-to-any-file: '**/*.rsi/*.png'
 
@@ -7,6 +7,7 @@
   - any-glob-to-any-file:
     - 'Resources/Maps/**/*.yml'
     - 'Resources/Prototypes/Maps/**/*.yml'
+    - 'Resources/Prototypes/Corvax/Maps/**/*.yml'
 
 "Changes: UI":
 - changed-files:
@@ -19,6 +20,10 @@
 "Changes: Audio":
 - changed-files:
   - any-glob-to-any-file: '**/*.ogg'
+
+"Changes: Localization":
+- changed-files:
+  - any-glob-to-any-file: '**/*.ftl'
 
 "Changes: No C#":
 - changed-files:
