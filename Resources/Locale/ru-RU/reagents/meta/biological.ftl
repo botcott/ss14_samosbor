@@ -20,3 +20,6 @@ reagent-name-vomit = рвота
 reagent-desc-vomit = Вы можете увидеть в ней несколько кусков чьей-то последней еды.
 reagent-name-grey-matter = серое вещество
 reagent-desc-grey-matter = Сок мыслей, вытекающий из ушей.
+reagent-name-sulfur-blood = серосодержащая кровь
+reagent-desc-biological-sulfur-blood = Странная, пахнущая серой субстанция, заменяющая кровь у некоторых экзотических форм жизни.
+reagent-physical-desc-sulfur-blood = вязкий
