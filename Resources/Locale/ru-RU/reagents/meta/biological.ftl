@@ -23,4 +23,4 @@ reagent-desc-grey-matter = Сок мыслей, вытекающий из уше
 reagent-name-sulfur-blood = серосодержащая кровь
 reagent-desc-biological-sulfur-blood = Странная, пахнущая серой субстанция, заменяющая кровь у некоторых экзотических форм жизни.
 reagent-physical-desc-sulfur-blood = вязкий
-
+reagent-desc-sulfur-blood = На ощупь почти как кислота.
